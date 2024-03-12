@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Some_programs.c">
+    <ClCompile Include="ping_pong.c">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
